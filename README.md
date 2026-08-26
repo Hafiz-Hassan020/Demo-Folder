@@ -6,4 +6,3 @@ Shardha Khapra
 
 # Student
 Delta Demo
-
